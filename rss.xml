@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>
+      <![CDATA[Yibing First Library]]>
+    </title>
+    <description>
+      <![CDATA[Yibing First Library]]>
+    </description>
+    <link>https://sketch.cloud/s/VEp78</link>
+    <image>
+      <url>https://raw.githubusercontent.com/yibing0703/sketch/master/Yiicon.jpg</url>
+      <title>Yibing First Library</title>
+      <link>https://sketch.cloud/s/VEp78</link>
+    </image>
+    <generator>Sketch</generator>
+    <lastBuildDate>Fri, 25 Jan 2019 15:56:34 GMT</lastBuildDate>
+    <language>
+      <![CDATA[en]]>
+    </language>
+    <item>
+      <title>
+        <![CDATA[Yibing First Library]]>
+      </title>
+      <description>
+        <![CDATA[Yibing First Library]]>
+      </description>
+      <pubDate>Fri, 25 Jan 2019 15:56:34 +0000</pubDate>
+      <link>https://sketch.cloud/s/VEp78</link><enclosure
+        url="https://raw.githubusercontent.com/yibing0703/sketch/master/Yiexample.sketch"
+        length="1004538"
+        type="application/octet-stream"
+        sparkle:version="1"/></item>
+  </channel>
+</rss>
