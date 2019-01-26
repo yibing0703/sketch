@@ -2,15 +2,15 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>
-      <![CDATA[Yibing First Library]]>
+      <![CDATA[TestLibrary]]>
     </title>
     <description>
-      <![CDATA[Yibing First Library]]>
+      <![CDATA[TestLibrary]]>
     </description>
     <link>https://sketch.cloud/s/VEp78</link>
     <image>
       <url>https://raw.githubusercontent.com/yibing0703/sketch/master/Yiicon.jpg</url>
-      <title>Yibing First Library</title>
+      <title>TestLibrary</title>
       <link>https://sketch.cloud/s/VEp78</link>
     </image>
     <generator>Sketch</generator>
