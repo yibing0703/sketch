@@ -19,26 +19,12 @@
     </language>
     <item>
       <title>
-        <![CDATA[TestLibrary1.2]]>
-      </title>
-      <description>
-        <![CDATA[TestLibrary1.2]]>
-      </description>
-      <pubDate>Sat, 26 Jan 2019 14:54:44 +0000</pubDate>
-      <link>https://sketch.cloud/s/VEp78</link>
-      <enclosure
-        url="https://raw.githubusercontent.com/yibing0703/sketch/master/Yiexample.sketch"
-        type="application/octet-stream"
-        sparkle:version="1.2"/>
-    </item>
-    <item>
-      <title>
         <![CDATA[TestLibrary1.0]]>
       </title>
       <description>
         <![CDATA[TestLibrary1.0]]>
       </description>
-      <pubDate>Sat, 26 Jan 2019 14:36:24 +0000</pubDate>
+      <pubDate>Sat, 26 Jan 2019 15:16:24 +0000</pubDate>
       <link>https://sketch.cloud/s/VEp78</link>
       <enclosure
         url="https://raw.githubusercontent.com/yibing0703/sketch/master/Yiexamp.sketch"
