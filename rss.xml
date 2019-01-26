@@ -22,12 +22,28 @@
         <![CDATA[Yibing First Library]]>
       </title>
       <description>
+        <![CDATA[Yibing First Library]]>
+      </description>
+      <pubDate>Sat, 26 Jan 2019 04:32:36 +0000</pubDate>
+      <link>https://sketch.cloud/s/VEp78</link>
+      <enclosure
+        url="https://raw.githubusercontent.com/yibing0703/sketch/master/Yiexamp3.0.sketch"
+        type="application/octet-stream"
+        sparkle:version="10"/>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Yibing First Library]]>
+      </title>
+      <description>
         <![CDATA[Yibing First Library 9.0]]>
       </description>
       <pubDate>Sat, 26 Jan 2019 03:29:21 +0000</pubDate>
-      <link>https://sketch.cloud/s/VEp78</link><enclosure
+      <link>https://sketch.cloud/s/VEp78</link>
+      <enclosure
         url="https://raw.githubusercontent.com/yibing0703/sketch/master/Yiexamp.sketch"
         type="application/octet-stream"
-        sparkle:version="9"/></item>
+        sparkle:version="9"/>
+    </item>
   </channel>
 </rss>
