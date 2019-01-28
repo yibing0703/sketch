@@ -2,16 +2,16 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>
-      <![CDATA[TestLibrary]]>
+      <![CDATA[YibingLibrary]]>
     </title>
     <description>
-      <![CDATA[TestLibrary]]>
+      <![CDATA[YibingLibrary]]>
     </description>
-    <link>https://sketch.cloud/s/VEp78</link>
+    <link>https://sketch.cloud</link>
     <image>
       <url>https://raw.githubusercontent.com/yibing0703/sketch/master/Yiicon.jpg</url>
       <title>TestLibrary</title>
-      <link>https://sketch.cloud/s/VEp78</link>
+      <link>https://sketch.cloud</link>
     </image>
     <generator>Sketch</generator>
     <language>
@@ -19,40 +19,12 @@
     </language>
     <item>
       <title>
-        <![CDATA[TestLibrary1.3]]>
+        <![CDATA[YibingLibrary1.0.0]]>
       </title>
       <enclosure
         url="https://raw.githubusercontent.com/yibing0703/sketch/master/Yiexamp.sketch"
         type="application/octet-stream"
-        sparkle:version="1.3"/>
-    </item>
-    <item>
-      <title>
-        <![CDATA[TestLibrary1.2]]>
-      </title>
-      <description>
-        <![CDATA[TestLibrary1.2]]>
-      </description>
-      <pubDate>Sat, 26 Jan 2019 15:19:26 +0000</pubDate>
-      <link>https://sketch.cloud/s/VEp78</link>
-      <enclosure
-        url="https://raw.githubusercontent.com/yibing0703/sketch/master/Yiexample.sketch"
-        type="application/octet-stream"
-        sparkle:version="1.2"/>
-    </item>
-    <item>
-      <title>
-        <![CDATA[TestLibrary1.0]]>
-      </title>
-      <description>
-        <![CDATA[TestLibrary1.0]]>
-      </description>
-      <pubDate>Sat, 26 Jan 2019 15:16:24 +0000</pubDate>
-      <link>https://sketch.cloud/s/VEp78</link>
-      <enclosure
-        url="https://raw.githubusercontent.com/yibing0703/sketch/master/Yiexamp.sketch"
-        type="application/octet-stream"
-        sparkle:version="1.0"/>
+        sparkle:version="1.0.0"/>
     </item>
   </channel>
 </rss>
