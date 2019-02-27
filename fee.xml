@@ -19,6 +19,15 @@
     </language>
     <item>
       <title>
+        <![CDATA[YibingLibrary1.6.0]]>
+      </title>
+      <enclosure
+        url="https://raw.githubusercontent.com/yibing0703/sketch/master/PALibrary.sketch"
+        type="application/octet-stream"
+        sparkle:version="1.6.0"/>
+    </item>
+    <item>
+      <title>
         <![CDATA[YibingLibrary1.5.0]]>
       </title>
       <enclosure
