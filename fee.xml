@@ -2,74 +2,38 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>
-      <![CDATA[YibingLibrary]]>
+      <![CDATA[YiLibrary]]>
     </title>
     <description>
-      <![CDATA[YibingLibrary]]>
+      <![CDATA[YiLibrary]]>
     </description>
     <link>https://sketch.cloud</link>
     <image>
       <url>https://raw.githubusercontent.com/yibing0703/sketch/master/Yiicon.jpg</url>
-      <title>TestLibrary</title>
+      <title>YiLibrary</title>
       <link>https://sketch.cloud</link>
     </image>
     <generator>Sketch</generator>
     <language>
       <![CDATA[en]]>
     </language>
+        <item>
+      <title>
+        <![CDATA[YiLibrary1.0.0]]>
+      </title>
+      <enclosure
+        url="https://uuux.xyz/download?code=xiangyibing&name=PA_Library1.1.1.sketch"
+        type="application/octet-stream"
+        sparkle:version="1.0.0"/>
+    </item>
     <item>
       <title>
-        <![CDATA[YibingLibrary1.6.0]]>
+        <![CDATA[YiLibrary0.6.0]]>
       </title>
       <enclosure
         url="https://raw.githubusercontent.com/yibing0703/sketch/master/PALibrary.sketch"
         type="application/octet-stream"
-        sparkle:version="1.6.0"/>
-    </item>
-    <item>
-      <title>
-        <![CDATA[YibingLibrary1.5.0]]>
-      </title>
-      <enclosure
-        url="https://raw.githubusercontent.com/yibing0703/sketch/master/YibingLibrary1.5.0.sketch"
-        type="application/octet-stream"
-        sparkle:version="1.5.0"/>
-    </item>
-    <item>
-      <title>
-        <![CDATA[YibingLibrary1.4.0]]>
-      </title>
-      <enclosure
-        url="https://raw.githubusercontent.com/yibing0703/sketch/master/YibingLibrary1.4.0.sketch"
-        type="application/octet-stream"
-        sparkle:version="1.4.0"/>
-    </item>
-    <item>
-      <title>
-        <![CDATA[YibingLibrary1.3.0]]>
-      </title>
-      <enclosure
-        url="https://raw.githubusercontent.com/yibing0703/sketch/master/exmplme2.sketch"
-        type="application/octet-stream"
-        sparkle:version="1.3.0"/>
-    </item>
-    <item>
-      <title>
-        <![CDATA[YibingLibrary1.2.0]]>
-      </title>
-      <enclosure
-        url="https://raw.githubusercontent.com/yibing0703/sketch/master/Yiexample.sketch"
-        type="application/octet-stream"
-        sparkle:version="1.2.0"/>
-    </item>
-    <item>
-      <title>
-        <![CDATA[YibingLibrary1.0.0]]>
-      </title>
-      <enclosure
-        url="https://raw.githubusercontent.com/yibing0703/sketch/master/Yiexamp.sketch"
-        type="application/octet-stream"
-        sparkle:version="1.0.0"/>
+        sparkle:version="0.6.0"/>
     </item>
   </channel>
 </rss>
