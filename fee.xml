@@ -2,10 +2,10 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>
-      <![CDATA[YiLibrary]]>
+      <![CDATA[Yi_Library]]>
     </title>
     <description>
-      <![CDATA[YiLibrary]]>
+      <![CDATA[Yi_Library]]>
     </description>
     <link>https://uuux.xyz</link>
     <image>
@@ -19,19 +19,10 @@
     </language>
     <item>
       <title>
-        <![CDATA[YiLibrary1.4.1]]>
+        <![CDATA[Yi_Library1.0.0]]>
       </title>
       <enclosure
         url="https://gitee.com/palibrary/palibrary/raw/master/1111.sketch"
-        type="application/octet-stream"
-        sparkle:version="1.4.1"/>
-    </item>
-    <item>
-      <title>
-        <![CDATA[YiLibrary1.0.0]]>
-      </title>
-      <enclosure
-        url="https://uuux.xyz/download?code=xiangyibing&name=PA_Library1.1.1.sketch"
         type="application/octet-stream"
         sparkle:version="1.0.0"/>
     </item>
