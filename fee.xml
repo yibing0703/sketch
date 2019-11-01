@@ -19,6 +19,15 @@
     </language>
     <item>
       <title>
+        <![CDATA[YiLibrary1.4.1]]>
+      </title>
+      <enclosure
+        url="http://q09sk29o4.bkt.clouddn.com/sketch/PA_Library1.4.1.sketch"
+        type="application/octet-stream"
+        sparkle:version="1.4.1"/>
+    </item>
+    <item>
+      <title>
         <![CDATA[YiLibrary1.0.0]]>
       </title>
       <enclosure
