@@ -19,6 +19,15 @@
     </language>
     <item>
       <title>
+        <![CDATA[Yi_Library1.4.1]]>
+      </title>
+      <enclosure
+        url="https://gitee.com/chen_tian_hua/PA_Library/raw/master/PA_Library1.4.1.sketch"
+        type="application/octet-stream"
+        sparkle:version="1.4.1"/>
+    </item>
+    <item>
+      <title>
         <![CDATA[Yi_Library1.0.0]]>
       </title>
       <enclosure
